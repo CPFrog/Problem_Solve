@@ -30,5 +30,8 @@
     <ClCompile Include="1237. 정ㅋ벅ㅋ.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="1924. 2007년.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
