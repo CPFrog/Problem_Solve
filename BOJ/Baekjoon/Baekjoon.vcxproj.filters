@@ -39,5 +39,8 @@
     <ClCompile Include="2440. 별찍기 - 3.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="2555. 생일 출력하기.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
