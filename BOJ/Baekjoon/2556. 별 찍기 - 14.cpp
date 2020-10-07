@@ -1,4 +1,4 @@
-// submitted at 2018.07.30 16:38:19
+// submitted at 2018.07.30. 16:38:19
 #include <iostream>
 using namespace std;
 

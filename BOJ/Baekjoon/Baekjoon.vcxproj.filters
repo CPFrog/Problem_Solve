@@ -45,5 +45,8 @@
     <ClCompile Include="2556. 별 찍기 - 14.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="2557. Hello World.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
