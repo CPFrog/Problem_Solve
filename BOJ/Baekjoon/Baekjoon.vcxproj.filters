@@ -36,5 +36,8 @@
     <ClCompile Include="2438. 별찍기 - 1.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="2440. 별찍기 - 3.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
