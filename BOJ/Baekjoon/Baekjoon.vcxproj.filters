@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Dynamic Programming">
       <UniqueIdentifier>{75f5ae63-fdeb-413a-a067-2617d073c6bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\String">
+      <UniqueIdentifier>{5b5da6aa-42b9-4076-97a0-30fd13275e5e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000. A+B.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="2742. 기찍 N.cpp">
       <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="2743. 단어 길이 재기.cpp">
+      <Filter>소스 파일\String</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
