@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Implementation">
       <UniqueIdentifier>{ae0cd447-1ddb-4358-9342-e1ca1b3a8753}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Dynamic Programming">
+      <UniqueIdentifier>{75f5ae63-fdeb-413a-a067-2617d073c6bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000. A+B.cpp">
@@ -55,10 +58,13 @@
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
     <ClCompile Include="2741. N 찍기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
     <ClCompile Include="1463. 1로 만들기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="2742. 기찍 N.cpp">
+      <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
