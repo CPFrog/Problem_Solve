@@ -84,5 +84,8 @@
     <ClCompile Include="10039. 평균 점수.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="10172. 개.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
