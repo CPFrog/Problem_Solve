@@ -88,7 +88,10 @@
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
     <ClCompile Include="10430. 나머지.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="10718. We love kriii.cpp">
+      <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
