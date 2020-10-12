@@ -13,94 +13,103 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Implementation">
+    <Filter Include="소스 파일\문자열 %28String%29">
+      <UniqueIdentifier>{5b5da6aa-42b9-4076-97a0-30fd13275e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\자료구조 %28Data structures%29">
+      <UniqueIdentifier>{4356d876-2b5d-4390-9a6e-89048cf06216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\구현 %28Implementation%29">
       <UniqueIdentifier>{ae0cd447-1ddb-4358-9342-e1ca1b3a8753}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Dynamic Programming">
+    <Filter Include="소스 파일\DP %28Dynamic Programming%29">
       <UniqueIdentifier>{75f5ae63-fdeb-413a-a067-2617d073c6bd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\String">
-      <UniqueIdentifier>{5b5da6aa-42b9-4076-97a0-30fd13275e5e}</UniqueIdentifier>
+    <Filter Include="소스 파일\스택 %28Stack%29">
+      <UniqueIdentifier>{a4296bcd-c458-4280-8697-319f5f96c48a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000. A+B.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="1001. A-B.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="1008. A÷B.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="1237. 정ㅋ벅ㅋ.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="1924. 2007년.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2555. 생일 출력하기.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2438. 별 찍기 - 1.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2440. 별 찍기 - 3.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2556. 별 찍기 - 14.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2557. Hello World.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2558. A+B - 2.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2739. 구구단.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2741. N 찍기.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="1463. 1로 만들기.cpp">
-      <Filter>소스 파일\Dynamic Programming</Filter>
+      <Filter>소스 파일\DP %28Dynamic Programming%29</Filter>
     </ClCompile>
     <ClCompile Include="2742. 기찍 N.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="2743. 단어 길이 재기.cpp">
-      <Filter>소스 파일\String</Filter>
+      <Filter>소스 파일\문자열 %28String%29</Filter>
     </ClCompile>
     <ClCompile Include="7287. 등록.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="8393. 합.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="9498. 시험 성적.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10039. 평균 점수.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10172. 개.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10430. 나머지.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10718. We love kriii.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10869. 사칙연산.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10950. A+B - 3.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
     <ClCompile Include="10828. 스택_vector.cpp">
-      <Filter>소스 파일\Implementation</Filter>
+      <Filter>소스 파일\자료구조 %28Data structures%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10828. 스택_STL.cpp">
+      <Filter>소스 파일\스택 %28Stack%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
