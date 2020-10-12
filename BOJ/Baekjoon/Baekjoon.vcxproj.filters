@@ -99,5 +99,8 @@
     <ClCompile Include="10950. A+B - 3.cpp">
       <Filter>소스 파일\Implementation</Filter>
     </ClCompile>
+    <ClCompile Include="10828. 스택_vector.cpp">
+      <Filter>소스 파일\Implementation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
