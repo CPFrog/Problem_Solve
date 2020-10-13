@@ -117,5 +117,8 @@
     <ClCompile Include="10799 쇠막대기.cpp">
       <Filter>소스 파일\스택 %28Stack%29</Filter>
     </ClCompile>
+    <ClCompile Include="1406. 에디터.cpp">
+      <Filter>소스 파일\스택 %28Stack%29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
