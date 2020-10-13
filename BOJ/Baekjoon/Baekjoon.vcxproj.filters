@@ -111,5 +111,8 @@
     <ClCompile Include="10828. 스택_STL.cpp">
       <Filter>소스 파일\스택 %28Stack%29</Filter>
     </ClCompile>
+    <ClCompile Include="9012. 괄호.cpp">
+      <Filter>소스 파일\문자열 %28String%29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
