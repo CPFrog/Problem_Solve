@@ -11,7 +11,7 @@ int main() {
 	cin >> tc;
 	string p;
 	stack<int> s;
-	while(tc--) {
+	while (tc--) {
 		cin >> p;
 		bool res = true;
 		for (int i = 0; i < p.length(); i++) {
