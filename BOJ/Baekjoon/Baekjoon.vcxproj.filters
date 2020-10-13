@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\스택 %28Stack%29">
       <UniqueIdentifier>{a4296bcd-c458-4280-8697-319f5f96c48a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\큐 %28Queue%29">
+      <UniqueIdentifier>{023447fc-2d37-4fc8-a13d-72cc23036a00}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000. A+B.cpp">
@@ -119,6 +122,9 @@
     </ClCompile>
     <ClCompile Include="1406. 에디터.cpp">
       <Filter>소스 파일\스택 %28Stack%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10845. 큐.cpp">
+      <Filter>소스 파일\큐 %28Queue%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
