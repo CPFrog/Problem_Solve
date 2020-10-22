@@ -136,7 +136,10 @@
       <Filter>소스 파일\덱 %28Deque%29</Filter>
     </ClCompile>
     <ClCompile Include="10808. 알파벳 개수.cpp">
-      <Filter>소스 파일\덱 %28Deque%29</Filter>
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10809. 알파벳 찾기.cpp">
+      <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
