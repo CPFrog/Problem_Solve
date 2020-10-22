@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\큐 %28Queue%29">
       <UniqueIdentifier>{023447fc-2d37-4fc8-a13d-72cc23036a00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\덱 %28Deque%29">
+      <UniqueIdentifier>{917422b9-7aa4-4364-8066-891c2bf41651}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000. A+B.cpp">
@@ -128,6 +131,9 @@
     </ClCompile>
     <ClCompile Include="1158. 요세푸스 문제.cpp">
       <Filter>소스 파일\큐 %28Queue%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10866. 덱.cpp">
+      <Filter>소스 파일\덱 %28Deque%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
