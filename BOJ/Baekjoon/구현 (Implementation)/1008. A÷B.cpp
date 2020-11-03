@@ -1,5 +1,3 @@
-// submitted at 2018.07.30. 15:49:18
-
 #include <iostream>
 
 int main() {
