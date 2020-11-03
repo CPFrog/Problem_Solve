@@ -1,4 +1,3 @@
-// submitted at 2018.07.30. 22:07:55
 #include <iostream>
 #include <string>
 #include <vector>
