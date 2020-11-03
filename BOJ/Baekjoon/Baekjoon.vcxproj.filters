@@ -144,5 +144,8 @@
     <ClCompile Include="10820. 문자열 분석.cpp">
       <Filter>소스 파일\구현 %28Implementation%29</Filter>
     </ClCompile>
+    <ClCompile Include="1003. 피보나치 함수.cpp">
+      <Filter>소스 파일\DP %28Dynamic Programming%29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
