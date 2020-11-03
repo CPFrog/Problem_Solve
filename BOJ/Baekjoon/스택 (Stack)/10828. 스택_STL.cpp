@@ -1,4 +1,3 @@
-// submitted at 2018.08.06. 19:38:16
 #include <iostream>
 #include <stack>
 #include <string>
