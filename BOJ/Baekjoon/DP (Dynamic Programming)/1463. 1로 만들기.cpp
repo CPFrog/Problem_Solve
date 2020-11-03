@@ -1,4 +1,3 @@
-// submitted at 2018.07.30. 17:52:05
 #include <iostream>
 #include <vector>
 #define min(a,b)(((a)<(b))?(a):(b))
