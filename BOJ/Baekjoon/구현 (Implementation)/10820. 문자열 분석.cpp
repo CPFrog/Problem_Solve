@@ -1,4 +1,3 @@
-// submitted at 2018.08.10. 09:51:14
 #include <iostream>
 #include <string>
 using namespace std;
