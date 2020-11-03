@@ -1,4 +1,3 @@
-// submitted at 2018.08.07. 19:01:19
 #include <iostream>
 #include <deque>
 #include <string>
