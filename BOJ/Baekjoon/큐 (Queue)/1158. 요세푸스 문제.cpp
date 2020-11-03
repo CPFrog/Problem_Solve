@@ -1,4 +1,3 @@
-// submitted at 2018.08.07. 18:41:33
 #include <iostream>
 #include <queue>
 using namespace std;
