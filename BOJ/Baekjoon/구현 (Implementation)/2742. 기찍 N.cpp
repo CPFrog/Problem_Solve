@@ -1,4 +1,3 @@
-// submitted at 
 #include <iostream>
 using namespace std;
 
