@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <queue>
-#include <stack>
 #include <cmath>
 using namespace std;
 
@@ -17,7 +16,6 @@ int main() {
     }
     int l = o.length();
     queue<int> q;
-    stack<int> s;
     for (int i = 0; i < l; i++) {
         o[i] -= '0';
         for (int j = 2; j >= 0; j--) {
@@ -30,7 +28,8 @@ int main() {
             }
         }
     }
-    while (!q.empty()) {
+    int ql = q.size();
+    while (ql--) {
         cout << q.front();
         q.pop();
     }
