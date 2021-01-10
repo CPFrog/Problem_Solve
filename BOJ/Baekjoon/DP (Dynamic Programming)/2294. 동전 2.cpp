@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-long long d[100001];
+int d[100001];
 
 int main() {
 	cin.tie(NULL);
